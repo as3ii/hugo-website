@@ -1,3 +1,7 @@
 [submodule "themes/hugograyscale"]
 	path = themes/hugograyscale
 	url = https://github.com/runningstream/hugograyscale.git
+[submodule "public"]
+	path = public
+	url = git@github.com:as3ii/as3ii.github.io.git
+	branch = master

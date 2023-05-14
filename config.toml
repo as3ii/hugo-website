@@ -1,7 +1,8 @@
-baseURL = "https://localhost/"
+baseURL = "https://lorenzodebe.com/"
 languageCode = "en-us"
-title = "Lorenzo Debertolis"
+title = "Lorenzo IN3HBB (as3ii)"
 theme = "hugograyscale"
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
     description = "Lorenzo's portfolio"
